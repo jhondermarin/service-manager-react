@@ -1,1 +1,2 @@
-# service-manager-react
+🧩 Este proyecto es la evolución en React de:
+👉 [https://github.com/tuusuario/service-manager-html-css](https://github.com/jhondermarin/service-manager-html-css)
